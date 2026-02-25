@@ -55,9 +55,9 @@ All experiments are reproducible.
 
 ## Setup Instructions
 
-### 1. Clone the Repository
 
 ```bash
+### 1. Clone Repository
 git clone git@github.com:faithyeore/stress-detection-ml.git
 cd stress-detection-ml
 
